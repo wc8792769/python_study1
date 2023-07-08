@@ -1,0 +1,107 @@
+[
+    {
+        "item": "Total water use (WU)",
+        "unit": "km3 yr-1",
+        "describe": "The sum of IRR, IND, URB, and RUR"
+    },
+    {
+        "item": "Irrigation WU (IRR)",
+        "unit": "km3 yr-1",
+        "describe": "Annual quantity of water withdrawn for irrigation including the losses during conveyance and field application, but it does not include water for pasture or aquaculture"
+    },
+    {
+        "item": "Irrigated area",
+        "unit": "thousand ha",
+        "describe": "Area equipped for irrigation by crop"
+    },
+    {
+        "item": "Irrigation water-use intensity (WUI)",
+        "unit": "mm",
+        "describe": "The water used per unit of irrigated area by crop"
+    },
+    {
+        "item": "Industrial WU (IND)",
+        "unit": "km3 yr-1",
+        "describe": "Annual quantity of water withdrawn for industrial purposes, including self-supplied industries and the industries that are connected to the public supply network"
+    },
+    {
+        "item": "Industrial gross value added (GVA)",
+        "unit": "Billion Yuan",
+        "describe": "Industrial GVA by industries"
+    },
+    {
+        "item": "Industrial WUI",
+        "unit": "m3 Yuan-1",
+        "describe": "WU per unit of GVA for all industries"
+    },
+    {
+        "item": "Urban WU (URB)",
+        "unit": "km3 yr-1",
+        "describe": "The sum of water withdrawn for direct uses by urban residents and service activities"
+    },
+    {
+        "item": "Urban domestic WU",
+        "unit": "km3 yr-1",
+        "describe": "Annual quantity of water withdrawn by the public supply network for the direct uses by urban residents"
+    },
+    {
+        "item": "Urban population",
+        "unit": "million Capita",
+        "describe": "The number of urban residents, including urban residents registered with urban residential permit (‘hukou’) and rural residents who migrate to urban regions no matter what they get urban hukou or not"
+    },
+    {
+        "item": "Urban domestic WUI",
+        "unit": "Liter capita-1 day-1",
+        "describe": "Urban domestic WU per capita of urban population"
+    },
+    {
+        "item": "Urban service WU",
+        "unit": "km3 yr-1",
+        "describe": "Annual quantity of water withdrawn by the public supply network for the direct uses by service activities"
+    },
+    {
+        "item": "Service GVA",
+        "unit": "billion Yuan",
+        "describe": "GVA of service activities"
+    },
+    {
+        "item": "Service WUI",
+        "unit": "m3 Yuan-1",
+        "describe": "WU per unit of GVA of service activities"
+    },
+    {
+        "item": "Rural WU (RUR)",
+        "unit": "km3 yr-1",
+        "describe": "Annual quantity of water withdrawn by the public supply network for the direct uses by rural residents and livestock"
+    },
+    {
+        "item": "Rural domestic WU",
+        "unit": "km3 yr-1",
+        "describe": "Annual quantity of water withdrawn by the public supply network for the direct uses by rural residents"
+    },
+    {
+        "item": "Rural population",
+        "unit": "million Capita",
+        "describe": "Population living in rural regions"
+    },
+    {
+        "item": "Rural domestic WUI",
+        "unit": "Liter capita-1 day-1",
+        "describe": "Rural domestic WU per capita of rural population"
+    },
+    {
+        "item": "Rural livestock WU",
+        "unit": "km3 yr-1",
+        "describe": "Annual quantity of water withdrawn by the public supply network for livestock drinking and cleaning"
+    },
+    {
+        "item": "Livestock population",
+        "unit": "billion KJ",
+        "describe": "Livestock commodity calories summed from 7 types of animal"
+    },
+    {
+        "item": "Livestock WUI",
+        "unit": "Liter KJ-1",
+        "describe": "WU per unit of livestock commodity calories"
+    }
+]

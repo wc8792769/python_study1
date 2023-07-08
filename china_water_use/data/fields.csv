@@ -1,0 +1,59 @@
+,0
+City_ID,City_ID
+Year,Year
+IRR,IRR
+Irrigated area: Total,Irrigated area: Total
+Irrigated area: Rice,Irrigated area: Rice
+Irrigated area: Wheat,Irrigated area: Wheat
+Irrigated area: Maize,Irrigated area: Maize
+Irrigated area: Vegetables and fruits,Irrigated area: Vegetables and fruits
+Irrigated area: Others,Irrigated area: Others
+Irrigation water-use intensity (WUI): Total,Irrigation water-use intensity (WUI): Total
+Irrigation water-use intensity (WUI): Rice,Irrigation water-use intensity (WUI): Rice
+Irrigation water-use intensity (WUI): Wheat,Irrigation water-use intensity (WUI): Wheat
+Irrigation water-use intensity (WUI): Maize,Irrigation water-use intensity (WUI): Maize
+Irrigation water-use intensity (WUI): Vegetables and fruits,Irrigation water-use intensity (WUI): Vegetables and fruits
+Irrigation water-use intensity (WUI): Others,Irrigation water-use intensity (WUI): Others
+IND,IND
+Industrial gross value added (GVA): Total,Industrial gross value added (GVA): Total
+Industrial gross value added (GVA): Textile,Industrial gross value added (GVA): Textile
+Industrial gross value added (GVA): Papermaking,Industrial gross value added (GVA): Papermaking
+Industrial gross value added (GVA): Petrochemicals,Industrial gross value added (GVA): Petrochemicals
+Industrial gross value added (GVA): Metallurgy,Industrial gross value added (GVA): Metallurgy
+Industrial gross value added (GVA): Mining,Industrial gross value added (GVA): Mining
+Industrial gross value added (GVA): Food,Industrial gross value added (GVA): Food
+Industrial gross value added (GVA): Cements,Industrial gross value added (GVA): Cements
+Industrial gross value added (GVA): Machinery,Industrial gross value added (GVA): Machinery
+Industrial gross value added (GVA): Electronics,Industrial gross value added (GVA): Electronics
+Industrial gross value added (GVA): Thermal electrivity,Industrial gross value added (GVA): Thermal electrivity
+Industrial gross value added (GVA): Others,Industrial gross value added (GVA): Others
+Industrial WUI: Total,Industrial WUI: Total
+Industrial WUI: Textile,Industrial WUI: Textile
+Industrial WUI: Papermaking,Industrial WUI: Papermaking
+Industrial WUI: Petrochemicals,Industrial WUI: Petrochemicals
+Industrial WUI: Metallurgy,Industrial WUI: Metallurgy
+Industrial WUI: Mining,Industrial WUI: Mining
+Industrial WUI: Food,Industrial WUI: Food
+Industrial WUI: Cements,Industrial WUI: Cements
+Industrial WUI: Machinery,Industrial WUI: Machinery
+Industrial WUI: Electronics,Industrial WUI: Electronics
+Industrial WUI: Thermal electrivity,Industrial WUI: Thermal electrivity
+Industrial WUI: Others,Industrial WUI: Others
+URB,URB
+Urban domestic WU,Urban domestic WU
+Urban population,Urban population
+Urban domestic WUI,Urban domestic WUI
+Urban service WU,Urban service WU
+Service GVA,Service GVA
+Service WUI,Service WUI
+RUR,RUR
+Rural domestic WU,Rural domestic WU
+Rural population,Rural population
+Rural domestic WUI,Rural domestic WUI
+Rural livestock WU,Rural livestock WU
+Livestock population,Livestock population
+Livestock WUI,Livestock WUI
+Total water use,Total water use
+area,area
+Perfecture,Perfecture
+Province_n,Province_n
