@@ -1,0 +1,42 @@
+[tool.poetry]
+name = "python-study"
+version = "0.1.0"
+description = ""
+authors = ["LiXY <1003262083@qq.com>"]
+readme = "README.md"
+packages = [{include = "python_study"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+geopandas = "^0.12.2"
+pint-pandas = "^0.3"
+matplotlib = "^3.7.1"
+openpyxl = "^3.1.1"
+pint = "<0.21"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.2.1"
+allure-pytest = "^2.12.0"
+ipykernel = "^6.21.2"
+jupyterlab = "^3.6.1"
+jupyterlab-execute-time = "^2.3.1"
+jupyterlab-lsp = "^3.10.2"
+python-lsp-server = "^1.7.1"
+flake8 = "^6.0.0"
+isort = "^5.12.0"
+nbstripout = "^0.6.1"
+pydocstyle = "^6.3.0"
+pre-commit-hooks = "^4.4.0"
+sourcery = "^1.0.6"
+
+
+[[tool.poetry.source]]
+name = "ali"
+url = "https://mirrors.aliyun.com/pypi/simple/"
+default = true
+secondary = false
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
